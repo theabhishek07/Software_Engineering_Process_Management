@@ -1,0 +1,2 @@
+Software Life Cycle Models : The process followed in development of s/w depends upon life cycle model chosen for development.
+                             Life cycle model defines the major phases during and after the s/w development process.

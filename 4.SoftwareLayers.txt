@@ -1,0 +1,14 @@
+Q) Why software engineering is considered a layered technology ?
+
+Software engineering comprises of a process, a set of methods for managing and developing the s/w and a collection of tools. The bedrock that support s/w engineering is quality focus.
+
+Layers -
+ =Quality (Functional and Non-Functional(eg = robustness and maintability))
+  (Ways to check Quality are = Six sigma test, Total quality management)
+
+ =Process (framework that must be established for effective delivery of s/w ,timely development of s/w and helps in management and control of software projects) 
+
+ =Methods (provide technical "how-to" for building a software, each method consist of multiple tasks. Eg=requirement analysis, testing,support) 
+ 
+ =Tools (provide automated/semi-automated supprot for process and methods.) 
+ {CAS or Computer aided software is a set of tools working together to deliver functionality in s/w}

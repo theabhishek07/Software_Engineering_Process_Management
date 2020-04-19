@@ -1,0 +1,16 @@
+Software vs Hardware :
+
+1) Software does not wear out it deteriorates while hardware wears out with time.
+
+2) The curve for software is not a idealized curve and states that high failure rate in early life of software , during its life software undergoes changes and curve spikes with error caused by every change with minimum failure rate rises (increased failure rate due to side effects of changes).
+The Bath Tub Curve for hardware shows that hardware include high failure rate early in the lify cycle (design and manufacturing phase). Defects and failure rate drops to a steady level for some time and rises again due to environmental factors causing its wearout forming the graph like a bath tub.
+
+3) Software is a logical unit (intangible in nature) and hardware is a physical unit (tangible).
+
+4) There are no spare parts in software unlikely to hardware. (Spare parts are independent of each other while software modules are dependent.)
+
+5) Clearly specified problem statement in case of hardware.
+
+6) Requirements may change with time for software but not for hardware.
+
+7) Multiple copies creation is cheap for software as compared to hardware.

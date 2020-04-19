@@ -1,0 +1,23 @@
+Data Flow Diagrams : A DFD shows the flow of data through the system and is also used for modelling the requirements. and also known as Bubble chart or Data Flow Graph.
+
+    Symbols used :
+                  
+                  1.Circle (Process) - depicts process that transforms data inputs into data outputs.
+                  2.Curved Arrow (Dataflow) - shows flow of data into or out of a process or data store.
+                  3.Rectangle (Source or Sink) - external entity that acts as a source of system input or sink of system outputs.
+ 
+                  Data Store is a data repository of data items.
+				  
+	Some important points : 
+	                        ->unique names are important.
+			        ->DFDs depict flow of data and not order of events like a flowchart.
+                		->Decision paths (diamond nodes) represent logical expressions are not specified.
+							
+	Leveling in a DFD : DFD can be drawn to represent the system at different levels of abstraction.
+                        
+                        Higher level DFDs are partitioned or refined into lower levels having more information and functional details.						
+											
+	Level 0 DFD : (also known as Context diagram or fundamental) represents the entire system as a single bubble with input and output data indicated by incoming and outgoing arrows.	
+
+               Decompose this entire bubble into multiple bubbles with each bubble decomposed into more DFDs.						
+											

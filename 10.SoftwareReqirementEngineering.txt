@@ -1,0 +1,11 @@
+Software Requirement Engineering : (Understanding the requirement + documenting the requirements)
+
+  Requirement : requirement is a feature of the system or a description of something the system is capable of doing in order to fulfill the system's purpose (what to do and not how to do).
+
+  Work Product : RE produces one large document written in natural languages, containing a description of what system will do without describing HOW it will do it. ----> (Software Requirement Specification (SRS document))
+
+  Input to RE - problem statement prepared by customer. [overview of existing problem + new or additional functionality to be added]   
+  
+  Importance of well written requirements : developers will not know what to do without them.
+                                            customer may not be consistent with the requirements.
+	                                    it becomes difficult to validate and accept the s/w.

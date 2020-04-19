@@ -1,0 +1,12 @@
+Error, Faults and Failures :
+                      
+                    Error : It can be defined as the difference between the actual observed output and the correct expected output in a   s/w. It also refers to the human action that results in s/w containing faults or defects.	
+
+                    Fault : It is a condition that causes a system to fail in performing its required functionality.
+                            It is a static characterstic of s/w and is also known as software bug.
+
+                    Failure : The inability of a system or component to perform a required function according to its specification. 
+		              Failure occurs when fault is present in the system.
+                              Presence of a fault does not guarantes a failure but is a necessary condition for failures.		
+                              Failure is a characterstic of program behaviour occured only when a fault is executed.
+                              it is a dynamic attribute.							  

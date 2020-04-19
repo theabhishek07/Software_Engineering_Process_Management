@@ -1,0 +1,36 @@
+Software engineering is a systematic approach to the development, operation and maintenance of desired software.
+
+Dual role of software = 
+
+1) As a product =  delivers the computing potential of a hardware
+                   enables the hardware to  deliver expected functions
+                   acts as information transformer for bussiness and personal information.
+
+2) As a vehicle for delivering the product = helps in creation and control of other programs
+                                             Example = Operating system
+
+
+Q) Why software engineering is important ?
+
+= enables us to build complex systems software in a timely manner.
+= ensures high quality software.
+= imposes discipline to work that can become quite chaotic.
+
+
+Q) What is a work product (Result / Outcome)
+
+1) Software Engineer = the set of programs, the content (data) along with documentation that is a part of software.
+
+2) User /Customer = the functionality delivered by the software that improves user experience.
+
+
+Software Engg. Focuses On = 
+
+1) Quality (while software development) : Functional and Non-Functional Qualities. 
+
+     Functional (degree to which correct software is produced depending on user demands and feedbacks)
+     Non-Functional (features other than functions of a software like robustness)
+	 Non-Functional Qualities are also known as Structural Attributes
+             
+
+2) Maintainability (after the software has been developed and delivered) : should be easily enhanced and adaption to changing requirements whenever needed.

@@ -1,0 +1,30 @@
+Types Of Software : 
+
+1) System Software : provide platform for other s/w to run.
+                     They service other programs.
+					 Operating system , Compilers
+					 
+2) Application software : serve as a particluar purpose.
+                          solve particular bussiness. (also known as bussiness s/w)
+						  personal need or personal computer software (ex =game)
+                          						  
+3) Engineering /Scientific s/w : solve scientific problem         
+                                 complex numerical problems are solved   
+								 number crunching
+								 ex = astronomical ,genetical
+								 
+4) Embedded s/w : provide limited features and functionality.								 
+                  ex = microwave, dashboard displays etc. 
+				  
+5) AI s/w :	induce human like intelligence in machines.
+            complex algorithms which are non-numeric.	
+            ex = robotics, game playing like chess 			
+			
+6) Legacy s/w : very old and tradiotional s/w
+                changed from time to time	
+                do not have a good quality				
+				
+7) Web / Mobile applications : web include s/w that run on browser. ex= online editing s/w 
+                               mobile include the s/w running on mobile ex= candy crush			
+
+8) Real world s/w : control, monitor, analyse real world events in real time. ex= weather s/w
